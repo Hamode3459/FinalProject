@@ -101,8 +101,7 @@ def main():
             print("Invalid option, please select 1, 2, or 3.")
 
 
-# -------------------------------
+
 # Run Program
-# -------------------------------
 if __name__ == "__main__":
     main()
