@@ -11,3 +11,7 @@ def hash_password(plain_text_pass):
 passwd = "a"
 pass_hash = hash_password(passwd)
 print(f'Password: {passwd} Hash: str{pass_hash}')
+
+passwd = "apple"
+pass_hash = hash_password(passwd)
+print(f'Password: {passwd} Hash: str{pass_hash}')
